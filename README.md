@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [Symphony](https://github.com/Shailesh002/Symphony---Music-Streaming-Website-)
 
 - 📫 How to reach me **kdshailesh316@gmail.com**
-<img align="right" alt="Coding" width="500" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="480" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
