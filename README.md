@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shailesh</h1>
-<h3 align="center">### A Sophomore At Delhi Technological University exploring the world of computer sciences and various associated technologies....###</h3>
+<h3 align="center">### A Final Year At Delhi Technological University exploring the world of computer sciences and various associated technologies....###</h3>
 
 - 🔭 I’m currently working on [Symphony](https://github.com/Shailesh002/Symphony---Music-Streaming-Website-)
 
