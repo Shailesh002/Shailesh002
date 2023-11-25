@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Shailesh</h1>
 <h3 align="center">### A Final Year At Delhi Technological University exploring the world of computer sciences and various associated technologies....###</h3>
 
-- 🔭 I’m currently working on [Symphony](https://github.com/Shailesh002/Symphony---Music-Streaming-Website-)
-
 - 📫 How to reach me **kdshailesh316@gmail.com**
 <img align="right" alt="Coding" width="460" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
